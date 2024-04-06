@@ -26,8 +26,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./images/Logo.png" alt="Logo" width="80" height="80">
+  <a href="https://datatechnology.co.uk/">
+    <img src="./images/Logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Qlik Sense SaaS DT Mashup Projects</h3>
@@ -35,9 +35,9 @@
   <p align="center">
     Click below to see different mashups developed by Data Technology
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">DT Bikes</a>
+    <a href="https://dtworksbikesmashup1.azurewebsites.net/">DT Bikes Mashup</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">DT Qlik Sense Hub Mashup</a>
+    <a href="https://dtworksqshub.azurewebsites.net/">DT Qlik Sense Hub Mashup</a>
   </p>
 </div>
 
@@ -78,9 +78,9 @@
 Mashups can captivate audiences by providing a distinctive and novel experience. You can draw viewers in and
 
 Here are the benefits of mashups:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Increased Productivity
+* Improved Security
+* Uniformity Across the Organization
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -89,7 +89,7 @@ Here are the benefits of mashups:
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section includes the libraries Data Technology has used to build each mashup template.
 
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
@@ -104,16 +104,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a copy of this mashup, please make sure have the Prerequisites listed below.
 
 ### Prerequisites
 
-All you need is a Qlik Sense App and we can build out the objects on a web mashup.
+All you require is a Qlik Sense App and we can build out the objects on a web mashup.
 
 ### Installation
 
-No Installation is required.
+Qlik Sense is required to be installed either on Client Managed or on SaaS. You would also need to provide us access to an hosting cloud service such as Azure.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +121,7 @@ No Installation is required.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-We can a few customers who use our current template. Please see a list below:
+We have a few customers who use our current template. Please see a list below:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,10 +130,10 @@ We can a few customers who use our current template. Please see a list below:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Control which charts and charts users see
-- [x] Change the look and feel based on a switch
+- [ ] Control which charts and charts users see
+- [ ] Change the look and feel based on a switch
 - [ ] Control which users can see which master items for our self service feature
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Add Qlik Sense Automations into the template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +141,7 @@ We can a few customers who use our current template. Please see a list below:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+This mashup is Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,19 +175,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/company/data-technology/mycompany/
 [HTML]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML/
 [CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white

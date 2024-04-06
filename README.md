@@ -152,8 +152,8 @@ These Qlik Sense Mashups are Distributed under the MIT License. See `LICENSE.txt
 <!-- CONTACT -->
 ## Contact
 
-Data Technology (Support) - support@datatechnoogy.co.uk
-Amandeep Dhak (Developer) - ad@datatechnology.co.uk
+* [Data Technology (Support)] - support@datatechnoogy.co.uk
+* [Amandeep Dhak (Developer)] - ad@datatechnology.co.uk
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

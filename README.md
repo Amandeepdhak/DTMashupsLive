@@ -61,7 +61,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#future-roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -108,11 +108,11 @@ To get a copy of this mashup, please make sure have the Prerequisites listed bel
 
 ### Prerequisites
 
-All you require is a Qlik Sense App and we can build out the objects on a web mashup.
+We recommend that you have a Qlik Sense App pre-built with charts/neccessary data and we can build out the objects on a web mashup.
 
 ### Installation
 
-Qlik Sense is required to be installed either on Client Managed or on SaaS. You would also need to provide us access to an hosting cloud service such as Azure.
+Qlik Sense is required to be installed either on Client Managed or on SaaS. You would also need to provide us access to an hosting cloud service such as Azure. We also offer a hosting service on Azure.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,13 +129,13 @@ We have a number of customers who use our current template. Please see a list be
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- FUTURE ROADMAP -->
+## Future Roadmap
 
-- [ ] Control which charts and charts users see
-- [ ] Change the look and feel based on a switch
+- [ ] Control which charts and charts end users see
+- [ ] Change the look and feel of the template based on a button
 - [ ] Control which users can see which master items for our self service feature
-- [ ] Add Qlik Sense Automations into the template
+- [x] Add Qlik Sense Automations into the template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +143,7 @@ We have a number of customers who use our current template. Please see a list be
 <!-- LICENSE -->
 ## License
 
-This mashup is Distributed under the MIT License. See `LICENSE.txt` for more information.
+These Qlik Sense Mashups are Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +152,8 @@ This mashup is Distributed under the MIT License. See `LICENSE.txt` for more inf
 <!-- CONTACT -->
 ## Contact
 
-Data Technology - support@datatechnoogy.co.uk
+Data Technology (Support) - support@datatechnoogy.co.uk
+Amandeep Dhak (Developer) - ad@datatechnology.co.uk
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +161,8 @@ Data Technology - support@datatechnoogy.co.uk
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Data Technology would like to give credit to the following people/resources for helping to build these Qlik Sense Mashups template
+
 
 * [Amandeep Dhak](https://www.linkedin.com/in/amandeep-dhak/)
 * [Material Icons](https://fonts.google.com/icons)

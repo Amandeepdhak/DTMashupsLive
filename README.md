@@ -121,7 +121,9 @@ Qlik Sense is required to be installed either on Client Managed or on SaaS. You 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-We have a few customers who use our current template. Please see a list below:
+We have a number of customers who use our current template. Please see a list below:
+
+* [Boughey BI](https://www.youtube-nocookie.com/embed/Qhl7ESKXZoU?si=3XFygzt7kdvN9QWT)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

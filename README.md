@@ -150,7 +150,7 @@ This mashup is Distributed under the MIT License. See `LICENSE.txt` for more inf
 <!-- CONTACT -->
 ## Contact
 
-Data Technology - (https://twitter.com/your_username) - support@datatechnoogy.co.uk
+Data Technology - support@datatechnoogy.co.uk
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,8 +160,8 @@ Data Technology - (https://twitter.com/your_username) - support@datatechnoogy.co
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Amandeep Dhak](https://choosealicense.com)
-* [Material Icons](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Amandeep Dhak](https://www.linkedin.com/in/amandeep-dhak/)
+* [Material Icons](https://fonts.google.com/icons)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
